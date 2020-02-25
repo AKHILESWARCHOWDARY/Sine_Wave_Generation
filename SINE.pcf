@@ -1,0 +1,10 @@
+set_io clk R9
+set_io flag C9
+set_io data_out[0] D6
+set_io data_out[1] C6
+set_io data_out[2] C7
+set_io data_out[3] D5
+set_io data_out[4] P13
+set_io data_out[5] D4
+set_io data_out[6] D7
+set_io data_out[7] D9
